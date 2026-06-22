@@ -1,0 +1,28 @@
+<section class="section">
+<h2>Proof & Performance Data</h2>
+
+<div class="grid">
+
+<div class="card">
+<img src="T.png">
+<h3>Channel Revenue Analysis</h3>
+<p>Estimated monthly earnings reaching <span class="highlight">$662+</span></p>
+<p>Yearly projection over <span class="highlight">$8,000+</span></p>
+</div>
+
+<div class="card">
+<img src="kay1.png">
+<h3>Active Monetized Channel</h3>
+<p>39K+ subscribers with consistent growth and earnings.</p>
+<p>Daily revenue and views tracked and optimized.</p>
+</div>
+
+<div class="card">
+<img src="l.png">
+<h3>Viral Video Case</h3>
+<p>17B+ views example used for content structure analysis.</p>
+<p>Applied storytelling + retention strategy to client channels.</p>
+</div>
+
+</div>
+</section>
